@@ -14,7 +14,8 @@
  External API’s
  XAMPP Client Hosting – dropping the structure in htdocs folder
 
-API:https://api.coingecko.com/api/v3/coins/list
+API:https://api.coingecko.com/api/v3/coins/list,
+
 https://api.coingecko.com/api/v3/coins/bitcoin
 
 
